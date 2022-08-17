@@ -1,6 +1,6 @@
 # Software Architecture 
 
-## Modules
+## Modules 1
 
 ### What is Software Architecture
 
@@ -76,7 +76,7 @@ Architecture style first proposed by Shaw and Garlan– synonymous to “archite
 <br> <i>Note: </i> a reference architecture is an example solution using that set of reference models
 
 
-![Inter-relationship](./img/SoftwareArch/Inter-relationship.png)
+![Inter-relationship](../img/SoftwareArch/Inter-relationship.png)
 <br> <i>Note: </i> 
 * Reference model - is abstract and belongs to particular domain 
 * Combination of reference model and Architecture pattern is Reference Architecture
@@ -144,4 +144,4 @@ Software system is connected to environments like CPU system is going to deploy 
 
 ### Summary
 
-![summary](./img/SoftwareArch/Module%201%20summary.png)
+![summary](../img/SoftwareArch/Module%201%20summary.png)
