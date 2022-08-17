@@ -1,6 +1,5 @@
 # BITS-Software-engineering
 
-Crack you next tech interview or for technical recruiters, team leads
 
 ## Give a Star! :star:
 
