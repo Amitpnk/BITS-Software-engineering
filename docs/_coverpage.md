@@ -14,7 +14,7 @@
 - Purpose of this for my reference and also it will help you. 
 - Please contribute and correct if there is any mistake on it
 
-[Get Started](?id=table-of-contents)
+[Get Started](?id=home)
 [About me](https://amitpnk.github.io/)
 [Contact Us](https://github.com/Amitpnk/BITS-Software-engineering/issues/new)
 [Give star](https://github.com/Amitpnk/BITS-Software-engineering/stargazers)
