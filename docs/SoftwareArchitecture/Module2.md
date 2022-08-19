@@ -1,6 +1,6 @@
 # Software Architecture 
 
-## Modules 2
+## Modules 2 (Pre-recorded)
 
 ### Understanding Quality Attributes
 
@@ -40,9 +40,8 @@ so these are all the design decisions that are already taken you cannot compromi
 
 #### Quality requiements to be consider or followed
 
-* User interface should be easy to use Radio button or check box? Clear text? Screen layout? --- NOT architectural decisions
-* User interface should allow redo/undo at any level of depth
---- Architectural decision
+* User interface should be easy to use Radio button or check box? Clear text? Screen layout? -- NOT architectural decisions
+* User interface should allow redo/undo at any level of depth --- Architectural decision
 * The system should be modifiable with least impact 
     * Modular design is must --– Architectural
     * Coding technique should be simple –-- not architectural
@@ -163,3 +162,37 @@ To achieve a quality one needs to take a design decision this called tactic
 
 A tactic is a design decision that influences the achievement of a quality attribute response—tactics directly affect the system's response to some stimulus
 
+### Quality Design Decisions
+
+To address a quality following 7 design decisions need to be taken
+
+* Allocation of responsibilities
+* Coordination
+* Data model
+* Resource Management
+* Resource Binding
+* Technology choice
+
+* Responsibility Allocation
+    * Identify responsibilities (features) that are necessary for this quality requirement
+    * Which non-runtime (module) and runtime (components and connectors) should address the quality requirement
+* Coordination
+    * Mechanism (stateless, stateful…)
+    * Properties of coordination (lossless, concurrent etc.)
+    * Which element should and shouldn’t communicate
+* Data Model
+    * What’s the data structure, its creation, use, persistence, destruction mechanism
+    * Metadata
+    * Data organization
+* Resource management
+    * Identifying resources (CPU, I/O, memory, battery, system lock, thread pool..) and who should manage
+    * Arbitration policy
+    * Find impact of what happens when the threshold is exceeded
+* Binding time decision
+    * Use parameterized makefiles
+    * Design runtime protocol negotiation during coordination
+    * Runtime binding of new devices
+    * Runtime download of plugins/apps
+* Technology choice
+
+22:30
