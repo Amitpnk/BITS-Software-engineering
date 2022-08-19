@@ -30,15 +30,18 @@ Insted of programming computer to do calculation (mathematical functions), OO pr
 
 ![images](../img/OOAD/Module%201%20waterfall%20model.png)
 
+All the stages are done one after the other from top to bottom. This means that all requirements are gathered first then it is all analyzed and then the design has started. Now it is difficult to add another requirement from the customer till the acceptance phase.
+
 * Requirement and analysis - Analysis
 * Acceptance - Deployment and mainteance
 
 It is also called Vendor centric model
 
 Advantages
-1.  Simple
+1.  Simple in approach
 
 Disadvantages
-1. Sequential
+1. Sequential in design no space for concurrency
 2. Poor resource utilisation
 3. Not friendly changes
+
