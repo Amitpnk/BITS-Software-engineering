@@ -1,4 +1,4 @@
-* [Home](/?id=home) 
+* [Home](./index) 
 * [Software Architecture](./SoftwareArchitecture/Index) 
     * [Module 1](./SoftwareArchitecture/Module1) 
     * [Module 2](./SoftwareArchitecture/Module2) 
