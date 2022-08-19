@@ -1,7 +1,13 @@
+ 
 <div>
+<img src="img/logo.png" alt="Girl in a jacket"  style="width: 80px !important;" height="80">
+
 <br/>
 <h2 align="center"><strong>BITS Pilani on MTech </strong></h2>
 <h1 align="center"><strong>Software Engineering</strong></h1>
+
+<h3  align="center" style="color:#df2b34;"><strong>Personal note book which I take as part of my journey in BITS Pilani MTech in Software Engineering.</strong></h3>
+
 </div>
 
 > Dear Students,
