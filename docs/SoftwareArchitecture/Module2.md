@@ -195,4 +195,63 @@ To address a quality following 7 design decisions need to be taken
     * Runtime download of plugins/apps
 * Technology choice
 
-22:30
+* Responsibility Allocation
+    * Identify responsibilities (features) that are necessary for this quality requirement
+    * Which non-runtime (module) and runtime (components and connectors) should address the quality requirement
+* Coordination
+    * Mechanism (stateless, stateful…)
+    * Properties of coordination (lossless, concurrent etc.)
+    * Which element should and shouldn’t communicate
+* Data Model
+    * What’s the data structure, its creation, use, persistence, destruction mechanism
+    * Metadata
+    * Data organization
+* Resource management
+    * Identifying resources (CPU, I/O, memory, battery, system lock, thread pool..) and who should manage
+    * Arbitration policy
+    * Find impact of what happens when the threshold is exceeded
+* Binding time decision
+    * Use parameterized makefiles
+    * Design runtime protocol negotiation during coordination
+    * Runtime binding of new devices
+    * Runtime download of plugins/apps
+* Technology choice
+
+
+### Business Qualities
+
+* Time to Market
+    * Competitive Pressure – short window of opportunity for the product/system
+    * Build vs. Buy decisions
+    * Decomposition of system – insert a subset OR deploy a subset
+* Cost and benefit
+    * Development effort is budgeted
+    * Architecture choices lead to development effort
+    * Use of available expertise, technology
+    * Highly flexible architecture costs higher
+* Projected lifetime of the system
+    * The product that needs to survive for longer time needs to be modifiable, scalable, portable
+    * Such systems live longer; however may not meet the time-to-market requirement
+* Targeted Market
+    * Size of potential market depends on feature set and the platform
+    * Portability and functionality key to market share
+    * Establish a large market; a product line approach is well suited
+* Rollout Schedule
+    * Phased rollouts; base + additional features spaced in time
+    * Flexibility and customizability become the key
+* Integration with Legacy System
+    * Appropriate integration mechanisms
+    * Much implications on architecture
+
+### Architectural Qualities
+
+* Conceptual Integrity
+    * Architecture should do similar things in similar ways
+    * Unify the design at all levels
+* Correctness and Completeness
+    * Essential to ensure system’s requirements and run time constraints are met
+* Build ability
+    * Implemented by the available team in a timely manner with high quality
+    * Open to changes or modifications as time progresses
+    * Usually measured in cost and time
+    * Knowledge about the problem to be solved
