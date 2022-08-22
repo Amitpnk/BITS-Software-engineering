@@ -1,5 +1,6 @@
 * [Home](./index) 
 * [Software Architecture](./SoftwareArchitecture/Index) 
+    * [Assignment 1](./SoftwareArchitecture/Assignment1) 
     * [Module 1](./SoftwareArchitecture/Module1) 
     * [Module 2](./SoftwareArchitecture/Module2) 
 * [Cloud Computing](./Cloud/Index) 
