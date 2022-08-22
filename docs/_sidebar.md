@@ -6,5 +6,6 @@
 * [Cloud Computing](./Cloud/Index) 
     * [Module 1](./Cloud/Module1) 
 * [Agile Software Processes](./Agile/Index) 
+    * [Module 1](./Agile/Module1) 
 * [Object Oriented Analysis and Design](./OOAD/Index) 
     * [Module 1](./OOAD/Module1) 
