@@ -340,3 +340,9 @@ User model - understand users behaviour and provide help
     * To achieve usability
 
 ### Availability
+
+<br> <i>Note: </i> 
+
+Need to understand fault and failure because availability is about eliminating fault handling fault 
+
+
