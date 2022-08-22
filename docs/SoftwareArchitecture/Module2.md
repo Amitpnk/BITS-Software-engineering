@@ -255,3 +255,88 @@ To address a quality following 7 design decisions need to be taken
     * Open to changes or modifications as time progresses
     * Usually measured in cost and time
     * Knowledge about the problem to be solved
+
+### Usability
+
+* How easy it is for the user to accomplish a desired task and user support the system provides
+* Learnability: what does the system do to make a user familiar
+    * Operability: 
+        * Minimizing the impact of user errors
+        * Adopting to user needs
+        * Giving confidence to the user that the correct action is being taken?
+
+<br> <i>Note: </i> 
+Eg: iphone mobile - it is very user friendly and easy to learn with minimum error
+
+![image](../img/SoftwareArch/Module%202%20usability.png)
+
+### Usability Tactics
+
+![image](../img/SoftwareArch/Module%202%20usability%20tatics.png)
+
+#### User Initiative and System Response
+
+* Cancel
+    * When the user issues cancel, the system must listen to it (in a separate thread)
+    * Cancel action must clean the memory, release other resources and send cancel command to the collaborating components
+* Undo
+    * System needs to maintain a history of earlier states which can be restored
+    * This information can be stored as snapshots
+* Pause/resume
+    * Should implement the mechanism to temporarily stop a running activity, take its snapshot and then release the resource for other’s use
+* Aggregate (change font of the entire paragraph)
+    * For an operation to be applied to a large number of objects
+    * Provide facility to group these objects and apply the operation to the group 
+
+<br> <i>Note: </i> 
+Aggregate - Grouping feature after you draw box, lines, etc
+Cancel, Undo, Pause/Resume - Deploying any packages, in case if you want to revert then Undo need to maintain history for it
+
+
+#### System Initiated and Its category
+
+    
+* Task model
+    * Determine the current runtime context, guess what user is attempting, and then help
+    * Correct spelling during typing but not during password entry
+* System model
+    * Maintains its own model and provide feedback of some internal activities
+    * Time needed to complete the current activity
+* User model
+    * Captures user’s knowledge of the system, behavioral pattern and provide help
+    * Adjust scrolling speed, user specific customization, locale specific adjustment
+
+
+<br> <i>Note: </i> 
+Task model - while writing document, correct spelling
+System model - While download file gives percentage of completion of download 
+User model - understand users behaviour and provide help
+
+#### Usability Tactics and Patterns
+
+* Design time tactics- UI is often revised during testing. It is best to separate UI from the rest of the application
+    * Model view controller architecture pattern
+    * Presentation abstraction control
+    * Command Pattern
+    * Arch/Slinky -  Similar to Model view controller
+
+#### Design Checklist
+
+* Allocation of Responsibilities
+    * Identify the modules/components responsible for 
+        * Providing assistance, on-line help
+        * Adapt and configure based on user choice
+        * Recover from user error
+* Coordination Model
+    * Check if the system needs to respond to 
+        * User actions (mouse movement) and give feedback
+        * Can long running events be canceled?
+* Data model
+    * data structures needed for undo, cancel
+    * Design of transaction granularity to support undo and cancel
+* Resource mgmt
+     can configure system’s use of resource 
+* Technology selection
+    * To achieve usability
+
+### Availability
