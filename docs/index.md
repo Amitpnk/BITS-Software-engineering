@@ -27,6 +27,7 @@
 * Syllabus for Mid-Semester Test (Open Book): Topics in CS 1-5.
 * Syllabus for Comprehensive Exam (Open Book): All topics given in plan of study
 
+
 * [Cloud computing](./Cloud/Index) 
 
 |No	    |Name	            | Type	    | Subject  | Duration	| Weight	    | Day, Date, Session, Time
@@ -51,6 +52,7 @@ Important Information
 * Syllabus for Mid-Semester Test (Open Book): Topics in Weeks 1-7
 * Syllabus for Comprehensive Exam (Open Book): All topics given in plan of study
 
+
 * [Agile Software Processes](./Agile/Index) 
 
 |No	    |Name	            | Type	    | Subject  | Duration	| Weight	    | Day, Date, Session, Time
@@ -61,4 +63,3 @@ Important Information
 |EC-2	|Mid-Semester Exam	| Open Book	| Modules 1-6  | 2 Hours 	| 30%	    | Saturday, 24/09/2022 (FN)
 |EC-3	|Comprehensive Exam	| Open Book	| Modules 7-12  | 2 Hours 	| 45%	    | Saturday, 26/11/2022 (FN)
 
- 
