@@ -339,10 +339,38 @@ User model - understand users behaviour and provide help
 * Technology selection
     * To achieve usability
 
+
+### Failure classification
+
+* Transient - only occurs with certain inputs
+* Permanent - occurs on all inputs
+* Recoverable - system can recover without operator help
+* Unrecoverable - operator has to help
+* Non-corrupting - failure does not corrupt system state or data
+* Corrupting - system state or data are altered
+
+
 ### Availability
+
+Readiness of the software to carry out its task
+100% available (which is actually impossible) means it is always ready to perform the intended task
+A related concept is Reliability
+Ability to “continuously provide” correct service without failure
+Availability vs Reliability
+A software is said to be available even when it fails but recovers immediately
+Such a software will NOT be called Reliable
+
+Thus, Availability measures the fraction of time system is really available for use
+Takes repair and restart times into account
+Relevant for non-stop continuously running systems (e.g. traffic signal)
+
+
+
 
 <br> <i>Note: </i> 
 
-Need to understand fault and failure because availability is about eliminating fault handling fault 
-
+* Need to understand fault and failure because availability is about eliminating fault handling fault 
+* Eg: In case, word document software- if we do something or after some writing text if it gets crashes then it is availability but not reliability 
+* Eg: In case of health care system - if it fails after some time or with some operation then it is availability but not highly reliabile
+* There is no such software is where it is reliable all the time
 
