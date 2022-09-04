@@ -148,7 +148,7 @@ Spiral model
 <br> <i>Note: </i> 
 * decisions based on reality-Show to customer and get feedback 
 
-### Agile Development  Agile Project Management
+### Agile Development -> Agile Project Management
 
 * Traditional Project Management Turned Upside-down!
 * “Let’s wait till the Project completes to see the Product” -> “Several Min-projects with * little visible successes” 
