@@ -4,6 +4,7 @@
     * [Module 1](./SoftwareArchitecture/Module1) 
     * [Module 2](./SoftwareArchitecture/Module2) 
 * [Cloud Computing](./Cloud/Index) 
+    * [Assignment 1](./Cloud/Assignment1) 
     * [Module 1](./Cloud/Module1) 
 * [Agile Software Processes](./Agile/Index) 
     * [Module 1](./Agile/Module1) 
