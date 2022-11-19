@@ -96,12 +96,13 @@ Technologies
 
 Failure management
 *	CAP theorem
-*	Failure management in distributed systems	T1
+*	Failure management in distributed systems
 
- 
+
+
 9. Mobile and new technologies
 
-9.1. Architecting for Mobile
+    9.1. Architecting for Mobile
 
 *	Types of mobile applications: native, cross platform, web app
 *	Design considerations
@@ -111,10 +112,9 @@ Failure management
     *	Responsive design
     *	UI design patterns	 
 
-9.2	New technologies & their architecture
+    9.2	New technologies & their architecture
 
 Use cases and architecture of:
-
 *	Big data
     *	NoSQL Databases
     *	Hadoop
@@ -130,6 +130,7 @@ Use cases and architecture of:
 *	Decision-making context
 *	Basis for economic analysis
 *	Cost Benefit Analysis Method	 
+
 10.2	Recent developments and Emerging trends
 *	WebAssembly
 *	Service mesh
