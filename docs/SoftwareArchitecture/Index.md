@@ -62,74 +62,75 @@
     * View fusion
     * Finding violations 
 
+6.	Architectural patterns 
 
+*	Layered
+*	MVC
+*	Publish-subscribe
+*	Pipe & Filter
+*	Service Oriented Architecture and Micro-services	 
  
-<!-- 
-M6	Architectural patterns 
-•	Layered
-•	MVC
-•	Publish-subscribe
-•	Pipe & Filter
-•	Service Oriented Architecture and Micro-services	T1
- 
-M7	Architectural patterns 
-•	Broker
-•	Client server
-•	Peer-to-Peer
-•	Shared data
-•	Map-reduce
-•	Multi-tier	T1
+7.	Architectural patterns 
 
-R14	
-M8	Integration strategies
+*	Broker
+*	Client server
+*	Peer-to-Peer
+*	Shared data
+*	Map-reduce
+*	Multi-tier	
+
+8.	Integration strategies
+
 File transfer, Messaging, RPC, WebSockets, API Gateways
 
 Architecting for Cloud 
-•	Benefits of Cloud based approach
-•	Developing Multi-tenant Applications for the Cloud
-•	Amazon Web Services tools
-•	Trends in Cloud app development – languages, DB, Micro-services, CI / CD
+*	Benefits of Cloud based approach
+*	Developing Multi-tenant Applications for the Cloud
+*	Amazon Web Services tools
+*	Trends in Cloud app development – languages, DB, Micro-services, CI / CD
 
 Technologies
-•	Distributed Cache
-•	Containers
-•	Serverless architecture
+*	Distributed Cache
+*	Containers
+*	Serverless architecture
 
 Failure management
-•	CAP theorem
-•	Failure management in distributed systems	T1
+*	CAP theorem
+*	Failure management in distributed systems	T1
 
  
-M9.1	Architecting for Mobile
-•	Types of mobile applications: native, cross platform, web app
-•	Design considerations
-•	Android Application components
-•	Patterns in Mobile Application 
-o	Store locally, sync later
-o	Responsive design
-o	UI design patterns	R6
-	Recording not available
+9. Mobile and new technologies
 
-M9.2	New technologies & their architecture
+9.1. Architecting for Mobile
+
+*	Types of mobile applications: native, cross platform, web app
+*	Design considerations
+*	Android Application components
+*	Patterns in Mobile Application 
+    *	Store locally, sync later
+    *	Responsive design
+    *	UI design patterns	 
+
+9.2	New technologies & their architecture
 
 Use cases and architecture of:
 
-•	Big data
-o	NoSQL Databases
-o	Hadoop
-o	MapReduce
-o	Real-time analytics
-•	Artificial intelligence & Machine Learning
-•	Block Chain
-•	IoT
-•	Security: AuthID, OAuth	R11
-R12	Recording not available
+*	Big data
+    *	NoSQL Databases
+    *	Hadoop
+    *	MapReduce
+    *	Real-time analytics
+*	Artificial intelligence & Machine Learning
+*	Block Chain
+*	IoT
+*	Security: AuthID, OAuth	R11
+ 
 
-M10.1	Economic analysis of architectures
-•	Decision-making context
-•	Basis for economic analysis
-•	Cost Benefit Analysis Method	T1	
-M10.2	Recent developments and Emerging trends
-•	WebAssembly
-•	Service mesh
-•	Edge computing	R12	 -->
+10.1	Economic analysis of architectures
+*	Decision-making context
+*	Basis for economic analysis
+*	Cost Benefit Analysis Method	 
+10.2	Recent developments and Emerging trends
+*	WebAssembly
+*	Service mesh
+*	Edge computing	 
