@@ -1,0 +1,35 @@
+1.1
+https://youtu.be/YBmsQ3ITbP8
+
+1.2
+https://youtu.be/S_pmEQVauQ4
+
+1.3
+https://youtu.be/skGOi_vEoBE
+
+2.1
+https://youtu.be/c0xbj_Im6is
+2.2
+https://youtu.be/5Ppq6YbDq1A
+
+2.3
+https://youtu.be/WLobEA8YhIg
+
+2.4
+<iframe width="1536" height="714" src="https://www.youtube.com/embed/T8aPcezET3E" title="CC_RL_2.4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/T8aPcezET3E
+
+2.5
+https://youtu.be/L42mb5Rbj4E
+
+2.6
+https://youtu.be/phCWC7AgxYM
+
+2.7
+https://youtu.be/EYqwMulUKWY
+
+
+8.1
+<iframe width="400" height="300" src="https://www.youtube.com/embed/GpBSnRJTU5I?list=PLvvQ7qimTOkmJFGS_uYlOA423PlvVmxOg" title="CC_RL_8.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+8.2
