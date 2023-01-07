@@ -1,4 +1,10 @@
 * [Home](./index) 
+* Semester 2
+* [Software Product Management](./SoftwareProduct/Index)
+* [Software Testing Methodologies]
+* [Introduction to DevOps]
+* [Cross Platform Application Development]
+* Semester 1
 * [Software Architecture](./SoftwareArchitecture/Index) 
     * [Module](./SoftwareArchitecture/Module) 
     * [Module 1](./SoftwareArchitecture/Module1) 
