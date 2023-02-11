@@ -12,18 +12,18 @@
 |EC-3	|Comprehensive Exam	| Open Book	| All Modules | 2 1/2 Hours 	| 40%	    | Saturday, 20/05/2023 (FN) 
 
 
-* [Agile Software Processes](./Agile/Index) 
+* [Software Testing](./SoftwareTesting/Index) 
 
 |No	    |Name	            | Type	    | Subject  | Duration	| Weight	    | Day, Date, Session, Time
 |---|---|---|---|---|---|---|    
-|EC-1A	|Quiz-I	            | Online	|   | 	        | 5%	                | 
-|	    |Quiz-II	        | Online	|   | 	        | 5%	                | September 30, 2022
+|EC-1	|Quiz-I	            | Online	|   | 	        | 5%	                | 
+|	    |Quiz-II	        | Online	|   | 	        | 5%	                | 
 |	    |Assignment I	    | Online	|   | 	        | 15%	                | 
-|EC-2	|Mid-Semester Exam	| Open Book	| Modules 1-6  | 2 Hours 	| 30%	    | Saturday, 24/09/2022 - 1:00 PM TO 3:15 PM IST
-|EC-3	|Comprehensive Exam	| Open Book	| Modules x-xx | 2 Hours 	| 45%	    | Saturday, 26/11/2022 
+|EC-2	|Mid-Semester Exam	| Open Book	| Modules 1-6  | 2 Hours 	| 30%	    | Sunday, 12/03/2023 (FN)
+|EC-3	|Comprehensive Exam	| Open Book	| All Modules | 2 1/2 Hours 	| 45%	    | Sunday, 21/05/2023 (FN)
 
 
-* [Object Oriented Analysis and Design](./OOAD/Index) 
+<!-- * [Object Oriented Analysis and Design](./OOAD/Index) 
 
 |No	    |Name	            | Type	    | Subject  | Duration	| Weight	    | Day, Date, Session, Time
 |---|---|---|---|---|---|---|    
@@ -44,4 +44,4 @@
 |	    |Assignment I	    | Online	|   | 	        | 5%	                | 
 |EC-2	|Mid-Semester Exam	| Open Book	| Modules 1-4  | 2 Hours 	| 30%	    | Sunday, 25/09/2022 - 1:00 PM TO 3:15 PM IST
 |EC-3	|Comprehensive Exam	| Open Book	| Modules x-xx  | 2 Hours 	| 50%	    | Sunday, 27/11/2022 
-
+ -->

@@ -1,7 +1,7 @@
 * [Home](./index) 
 * Semester 2
 * [Software Product Management](./SoftwareProduct/Index)
-* [Software Testing Methodologies]
+* [Software Testing Methodologies](./SoftwareTesting/Index)
 * [Introduction to DevOps]
 * [Cross Platform Application Development]
 * Semester 1

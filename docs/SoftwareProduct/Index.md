@@ -138,10 +138,10 @@
 * PM Profile: Jane Manning of Google AdWords
 
 10.	Business plan 
-* Purpose
-* Contents of a business plan
-* What investors look for
-* Example: Airbnb pitch
+    * Purpose
+    * Contents of a business plan
+    * What investors look for
+    * Example: Airbnb pitch
 
 * Business model (how is revenue generated) (altexsoft.com)
     * Licensing (Salesforce)
