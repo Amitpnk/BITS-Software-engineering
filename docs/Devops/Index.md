@@ -51,14 +51,15 @@ M3	Module 3: 	Source Code Management (Using GIT as an example tool)
 *	Best Practices- clean code 	T2-Chapter 2,14
 
 M4	Module 4:  Continuous build and code quality
-*	  Manage Dependencies
-*	Automate the process of assembling software components  with build tools
-*	 Use of Build Tools- Maven, Gradle
-*	 Unit testing
-*	Enable Fast Reliable Automated Testing 
-*	Setting up Automated Test Suite – Selenium
-*	Continuous code inspection - Code quality
-*	Code quality analysis tools- sonarqube	T1- Chapter 5
+
+* Manage Dependencies
+* Automate the process of assembling software components  with build tools
+* Use of Build Tools- Maven, Gradle
+* Unit testing
+* Enable Fast Reliable Automated Testing 
+* Setting up Automated Test Suite – Selenium
+* Continuous code inspection - Code quality
+* Code quality analysis tools- sonarqube	T1- Chapter 5
 
 M5	Module 5:  Continuous Integration and Continuous Delivery
 *	Implementing Continuous Integration-Version control, automated build, Test
