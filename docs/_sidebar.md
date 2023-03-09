@@ -3,7 +3,7 @@
 * [Software Product Management](./SoftwareProduct/Index)
 * [Software Testing Methodologies](./SoftwareTesting/Index)
 * [Introduction to DevOps](./Devops/Index)
-* [Cross Platform Application Development]
+* [Cross Platform Application Development](./CrossPlatform/Index)
 * Semester 1
 * [Software Architecture](./SoftwareArchitecture/Index) 
     * [Module](./SoftwareArchitecture/Module) 
