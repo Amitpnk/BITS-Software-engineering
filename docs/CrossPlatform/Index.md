@@ -2,7 +2,7 @@
 
 ## Modules
 
-M1	Modern Application Landscape
+### M1	Modern Application Landscape
 *	Web apps
 *	Mobile applications
 *	Cross Platform applications
@@ -10,35 +10,35 @@ M1	Modern Application Landscape
 *	Serverless Apps
 *	API Products
 
-M2	 App Structure
+### M2	 App Structure
 *	Typical structure of end-to-end application
 	*	Frontend and Backend components, Databases 
 	*	Interaction between the components 
 *	Modern Architectural Styles
 	*	Modern app requirements
 	*	Architectural styles overview
-	
-M3	Modern App Architectures
+
+###  M3	Modern App Architectures
 *	Microservices
 	*	Motivation, Architecture, Constraints
 	*	Migrating legacy applications
-*	Cloud Native Architecture [Optional]#
+*	Cloud Native Architecture [Optional]
 	*	Distributed Systems and Fallacies, 12 factor app
 	*	Cloud based architecture
 	*	Motivation, Principles, Architecture, Components, Constraints 
 *	Serverless Architecture
 	*	Deployment approaches
 	*	Cloud services for development, testing and deployments of applications  (P/B/FaSS)
-*	Low Code Architecture [Optional] #
+*	Low Code Architecture [Optional]
 	*	Motivation, use cases, choices
-	
-M4	Serverless Apps
+
+### M4	Serverless Apps
 *	BaaS/mBaaS
-	*	Motivation, Choices (Firebase / Parse / Back4App )
-*	FaaS 
+	*	Motivation, Choices (Firebase / Parse / Back4App)
+*	FaaS
 	*	Motivation, Options (AWS Lambda / Google Cloud Functions / Azure Functions )
-	
-M5	Cross Platform Mobile Applications Development
+
+### M5	Cross Platform Mobile Applications Development
 *	Native Applications 
 	*	Platforms – Android, iOS etc. 
 	*	Framework choices, benefits, limitations
@@ -48,8 +48,8 @@ M5	Cross Platform Mobile Applications Development
 *	Cross Platform - Web Apps 
 	*	Purpose, working
 	*	Framework Choices (Ionic, Cordova/PhoneGap, Capacitor)
-	
-M6	API Design
+
+### M6	API Design
 *	Application Programming Interfaces
 	*	Motivations, requirements, constraints
 	*	API Paradigms
@@ -61,8 +61,8 @@ M6	API Design
 *	API Specification / Description 
 	*	Usage
 	*	Languages
-	
-M7	API Management
+
+### M7	API Management
 *	API as a Product
 	*	Challenge of API Management
 	*	API as a Product lifecycle
