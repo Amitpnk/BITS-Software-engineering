@@ -1,18 +1,18 @@
 * [Home](./index) 
 
-* [Software Product](./SoftwareProduct/Index) 
+* [Scalable Services](./Scalable/Index)
 
 |No	    |Name	            | Type	    | Subject  | Duration	| Weight	| Day, Date, Session, Time
 |---|---|---|---|---|---|---|  
-|EC-1	|Quiz-I	            | Online	|   | 	        | 5%	                | February 13-23, 2023
-|	    |Quiz-II	        | Online	|   | 	        | 5%	                | March 20-30, 2023
-|	    |Assignment I	    | Online	|   | 	        | 10%	                | April 20-30, 2023
+|EC-1	|Quiz-I	            | Online	|   | 	        | 5%	                | September 1-10, 2023
+|	    |Quiz-II	        | Online	|   | 	        | 5%	                | October 1-10, 2023
+|	    |Assignment I (exploring different tools)	    | Online	|   | 	        | 10%	                | To be announced
 |	    |Assignment-II	    | Online	|   | 	        | 10%	                | To be announced 
-|EC-2	|Mid-Semester Exam	| Open Book	| Modules 1-5  | 2 Hours 	| 30%	    | Saturday, 11/03/2023 (FN)  - 9:00 AM TO 11:15 AM IST
-|EC-3	|Comprehensive Exam	| Open Book	| All Modules | 2 1/2 Hours 	| 40%	    | Saturday, 20/05/2023 (FN) 
+|EC-2	|Mid-Semester Exam	| Closed Book	| Modules 1-x  | 2 Hours 	| 30%	    | Saturday, 23/09/2023 (FN)  - 9:00 AM TO 11:15 AM IST
+|EC-3	|Comprehensive Exam	| Open Book	| All Modules | 2 1/2 Hours 	| 40%	    | Saturday, 25/11/2023 (FN) 
 
 
-* [Software Testing](./SoftwareTesting/Index) 
+* [Open Source Software Engg](./OpenSource/Index)
 
 |No	    |Name	            | Type	    | Subject  | Duration	| Weight	    | Day, Date, Session, Time
 |---|---|---|---|---|---|---|    
@@ -23,7 +23,7 @@
 |EC-3	|Comprehensive Exam	| Open Book	| All Modules | 2 1/2 Hours 	| 45%	    | Sunday, 21/05/2023 (FN)
 
 
-* [Devops](./Devops/Index) 
+* [Applied Machine Learning](./AppliedMachineLearning/Index)
 
 |No	    |Name	            | Type	    | Subject  | Duration	| Weight	    | Day, Date, Session, Time
 |---|---|---|---|---|---|---|    
@@ -34,7 +34,7 @@
 |EC-3	|Comprehensive Exam	| Open Book	| All Modules  | 2 1/2 Hours  	| 40%	    | Sunday, 21/05/2023 (Evening)
 
 
-* [Cross Platform Application Development](./CrossPlatform/Index)
+* [Edge Computing](./EdgeComputing/Index)
 
 |No	    |Name	            | Type	    | Subject  | Duration	| Weight	    | Day, Date, Session, Time
 |---|---|---|---|---|---|---|    

@@ -1,4 +1,13 @@
 * [Home](./index) 
+* **Semester 3**
+* [Scalable Services](./Scalable/Index)
+    * [Assignment 1](./Scalable/Assignment1) 
+* [Open Source Software Engg](./OpenSource/Index)
+* [Applied Machine Learning](./AppliedMachineLearning/Index)
+    <!-- * [Assignment 1](./Devops/Assignment1) 
+    * [Assignment 2](./Devops/Assignment2)  -->
+* [Edge Computing](./EdgeComputing/Index)
+    <!-- * [Assignment 1](./EdgeComputing/Assignment1)  -->
 * **Semester 2**
 * [Software Product Management](./SoftwareProduct/Index)
     * [Assignment 1](./SoftwareProduct/Assignment1) 
